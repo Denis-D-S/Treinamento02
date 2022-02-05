@@ -1,1 +1,2 @@
-Arquivo teste de BranchSecond atualizado depois do conflito
+Arquivo teste de BranchSecond atualizado depois do SEGUNDO CONFLITO FEITO PELO CHERRY-PICK
+
